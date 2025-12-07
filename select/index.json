@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Girls Will Be Girls",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-07T08:58:52.044523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/01_Girls_Will_Be_Girls_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls -Japanese ver.-",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/02_Girls_Will_Be_Girls_-Japanese_ver.-_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "girls will be girls",
+      "artist": "isley brothers",
+      "has_synced": false,
+      "path": "select/03_girls_will_be_girls_isley_brothers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls",
+      "artist": "Klymaxx",
+      "has_synced": false,
+      "path": "select/04_Girls_Will_Be_Girls_Klymaxx.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls",
+      "artist": "Sophie Beem",
+      "has_synced": true,
+      "path": "select/05_Girls_Will_Be_Girls_Sophie_Beem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls",
+      "artist": "Sherry Lynn",
+      "has_synced": true,
+      "path": "select/06_Girls_Will_Be_Girls_Sherry_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls",
+      "artist": "The Isley Brothers",
+      "has_synced": false,
+      "path": "select/07_Girls_Will_Be_Girls_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Girls_Will_Be_Girls",
+      "artist": "The_Isley_Brothers",
+      "has_synced": false,
+      "path": "select/08_Girls_Will_Be_Girls_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "05. Girls Will Be Girls",
+      "artist": "The Isley Brothers",
+      "has_synced": false,
+      "path": "select/09_05._Girls_Will_Be_Girls_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls (EDM Remix)",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/10_Girls_Will_Be_Girls_(EDM_Remix)_ITZY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls (Rock Remix)",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/11_Girls_Will_Be_Girls_(Rock_Remix)_ITZY.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls (English Ver.)",
+      "artist": "Itzy",
+      "has_synced": false,
+      "path": "select/12_Girls_Will_Be_Girls_(English_Ver.)_Itzy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girls Will Be Girls (Tech House Remix)",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/13_Girls_Will_Be_Girls_(Tech_House_Remix)_ITZY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girls Will Be Girls",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_Girls_Will_Be_Girls_ITZY.txt"
+    }
+  ]
+}
