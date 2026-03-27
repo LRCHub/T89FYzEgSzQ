@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Girls Will Be Girls",
   "base_artist": "ITZY",
-  "createdAt": "2025-12-07T08:58:52.044523Z",
+  "createdAt": "2026-03-27T00:08:55.453083Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -97,16 +97,8 @@
       "source": "lrclib",
       "title": "Girls Will Be Girls (English Ver.)",
       "artist": "Itzy",
-      "has_synced": false,
-      "path": "select/12_Girls_Will_Be_Girls_(English_Ver.)_Itzy.txt"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "Girls Will Be Girls (Tech House Remix)",
-      "artist": "ITZY",
-      "has_synced": false,
-      "path": "select/13_Girls_Will_Be_Girls_(Tech_House_Remix)_ITZY.txt"
+      "has_synced": true,
+      "path": "select/12_Girls_Will_Be_Girls_(English_Ver.)_Itzy.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -115,6 +107,15 @@
       "artist": "ITZY",
       "has_synced": false,
       "path": "select/pl_01_Girls_Will_Be_Girls_ITZY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Girls Will Be Girls",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/localdb_01_Girls_Will_Be_Girls_ITZY.txt",
+      "repo_name": "1KhOhW_O8-k"
     }
   ]
 }
